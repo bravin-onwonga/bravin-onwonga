@@ -2,7 +2,7 @@
 
 I am glad you found me here. My journey into programming is driven by a curiosity for technology and a love for writing.
 
-![bravin-onwonga's Stats](https://github-readme-stats.vercel.app/api?username=bravin-onwonga&theme=vue-dark&show_icons=true&count_private=true&title_color==ffffcc&text_color==FFFFFF&icon_color=CC3FF&bg_color=000000&hide_border=false)
+![bravin-onwonga's Stats](https://github-readme-stats.vercel.app/api?username=bravin-onwonga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
